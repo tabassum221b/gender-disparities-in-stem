@@ -24,7 +24,7 @@ The analysis explores whether societal discouragement or inherent lack of intere
 - Clustering revealed two groups with supportive sentiments and two with critical views toward women in STEM.
 
 ## Project Files
-- [Jupyter Notebook](link_to_notebook.ipynb): Complete code for data preprocessing, LDA, clustering, and sentiment analysis.
+- [Jupyter Notebook](https://github.com/tabassum221b/gender-disparities-in-stem/gender-disparities-in-stem.ipynb): Complete code for data preprocessing, LDA, clustering, and sentiment analysis.
 - [Project Report PDF](link_to_report.pdf): Full written report of the project findings.
 - [Presentation Slides](link_to_presentation.pdf): A summarized presentation of the analysis and results.
 
