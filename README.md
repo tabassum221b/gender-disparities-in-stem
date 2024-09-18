@@ -1,6 +1,6 @@
 # Unveiling Gender Disparities in STEM: A Comprehensive Analysis
 
-**Contributors**: Veronica Mata, Homayra Tabassum
+**Contributors**: Homayra Tabassum, Veronica Mata
 
 ## Abstract
 This project investigates the underrepresentation of women in STEM fields by analyzing social media data collected from Reddit. Using data mining techniques such as Latent Dirichlet Allocation (LDA), clustering, and sentiment analysis (using GPT-3), we uncover meaningful patterns in how women are either encouraged or discouraged from pursuing careers in STEM.
