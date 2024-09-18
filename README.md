@@ -26,7 +26,7 @@ The analysis explores whether societal discouragement or inherent lack of intere
 ## Project Files
 -  [Jupyter Notebook](https://github.com/tabassum221b/gender-disparities-in-stem/blob/main/gender-disparities-in-stem.ipynb) : Complete code for data preprocessing, LDA, clustering, and sentiment analysis.
 - [Project Report PDF](link_to_report.pdf): Full written report of the project findings.
-- [Presentation Slides](link_to_presentation.pdf): A summarized presentation of the analysis and results.
+- [Presentation Slides](https://docs.google.com/presentation/d/130J-tE9AFm8H0Flj4l5et4UJaAIeH_u2/edit?usp=share_link&ouid=110952431175886571637&rtpof=true&sd=true): A summarized presentation of the analysis and results.
 
 ## Conclusion
 Our findings suggest that societal discouragement plays a more significant role than lack of interest in contributing to the gender gap in STEM. Future work will focus on refining the sentiment analysis with more advanced models like GPT-3.5 turbo.
