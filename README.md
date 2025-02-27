@@ -1,4 +1,4 @@
-# Unveiling Gender Disparities in STEM: A Comprehensive Analysis
+# Sentiment Analysis and Data Mining of Gender Gaps in STEM 
 
 **Contributors**: Homayra Tabassum, Veronica Mata
 
